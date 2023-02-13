@@ -1,6 +1,15 @@
 # Compiled class file
 *.class
 .idea
+*.iml
+*.ipr
+*.iws
+
+### Maven template
+target/
+.DS_Store
+.gradle
+build
 
 # Log file
 *.log
